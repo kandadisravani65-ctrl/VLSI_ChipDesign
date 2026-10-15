@@ -88,6 +88,6 @@ Each experiment will document:
 
 ## Author
 
-# Name: K.SRAVANI
-# Course: RTL-Design Workshop
-# Platform: VSDIAT
+Name: K.SRAVANI
+Course: RTL-Design Workshop
+Platform: VSDIAT
