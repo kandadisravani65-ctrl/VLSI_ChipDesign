@@ -100,6 +100,9 @@ These signals contain four bits each.
 
 Combinational logic produces outputs based on the current inputs.
 
+ <img width="894" height="454" alt="image" src="https://github.com/user-attachments/assets/fdc6cfdf-021e-4e5c-9dd0-a0880af84d25" />
+
+
 ### Example: 2-to-1 Multiplexer
 
 ```verilog
@@ -149,6 +152,7 @@ end
 
 endmodule
 ```
+    <img width="601" height="583" alt="image" src="https://github.com/user-attachments/assets/9e3bca29-5c1c-4937-9638-30a014a60bb6" />
 
 **Operation:**
 - When `rst` becomes high, `q` is cleared to zero.
@@ -182,6 +186,7 @@ always @(*) begin
         y = a;
 end
 ```
+<img width="903" height="462" alt="image" src="https://github.com/user-attachments/assets/9d1762b5-5e0a-4f37-b147-010b453c375e" />
 
 Case statements are useful for selecting among multiple input conditions or defining finite-state machine behavior.
 
