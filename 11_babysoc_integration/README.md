@@ -33,6 +33,9 @@ Modules communicate through input and output ports, buses, and other defined int
 
 Timing and implementation constraints describe assumptions and requirements for the design.
 
+ <img width="839" height="409" alt="image" src="https://github.com/user-attachments/assets/89cd8a83-9015-4c91-b541-e32be68f41f1" />
+
+
 ## 4. Initial Inspection
 
 Start by inspecting the repository files and documentation.
@@ -46,6 +49,8 @@ find . -type f -name "*.sdc"
 ```
 
 Run these commands from the directory containing the source project.
+<img width="841" height="409" alt="image" src="https://github.com/user-attachments/assets/73eda18b-89a3-4f7d-80a2-b915a6296a0d" />
+
 
 ## 5. Integration Workflow
 
@@ -84,6 +89,7 @@ Include the following when available:
 - Physical implementation screenshots and reports.
 
 Do not claim a complete RTL-to-GDSII flow unless the relevant stages have actually been completed and verified.
+  <img width="850" height="413" alt="image" src="https://github.com/user-attachments/assets/5d7dc73a-f911-439f-bad6-080e77496852" />
 
 ## 8. Learning Outcomes
 
