@@ -23,6 +23,7 @@ Global routing plans approximate routes and estimates congestion without necessa
 ## 4. Detailed Routing
 
 Detailed routing creates the actual metal routes while following the technology's routing and design rules.
+ <img width="943" height="485" alt="image" src="https://github.com/user-attachments/assets/ee4eb054-5009-421b-963a-4f54f7cc1e40" />
 
 ## 5. Parasitic Extraction
 
