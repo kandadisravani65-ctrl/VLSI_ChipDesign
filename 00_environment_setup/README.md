@@ -34,6 +34,9 @@ The project uses Ubuntu Linux as the primary environment for running hardware de
 5. Organize the project directories.
 6. Record tool versions and verification results.
 
+    <img width="878" height="660" alt="image" src="https://github.com/user-attachments/assets/29ca22de-efe0-4a81-97fb-0d899edb05ad" />
+
+
 ## Verification
 
 The environment will be verified by checking the installed versions of the tools and running basic test commands.
