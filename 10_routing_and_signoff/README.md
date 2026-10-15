@@ -13,6 +13,8 @@ A design is not ready for signoff simply because routing completes; the resultin
 - Understand parasitic extraction.
 - Review timing after routing.
 - Recognize common physical verification checks.
+   <img width="943" height="389" alt="image" src="https://github.com/user-attachments/assets/1f41e11d-c406-425b-aac1-fad5d739e670" />
+
 
 ## 3. Global Routing
 
@@ -31,6 +33,8 @@ Interconnects introduce resistance and capacitance. Parasitic extraction estimat
 ### Design Rule Checking
 
 Checks physical geometry against applicable manufacturing design rules.
+ <img width="951" height="418" alt="image" src="https://github.com/user-attachments/assets/39a35afc-c357-4680-b22a-26594fffd33f" />
+
 
 ### Timing Analysis
 
