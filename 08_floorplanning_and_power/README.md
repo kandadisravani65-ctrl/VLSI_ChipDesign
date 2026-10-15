@@ -13,6 +13,8 @@ Power planning establishes the structures used to distribute supply voltage and 
 - Understand utilization and placement density.
 - Explore power and ground distribution.
 - Recognize the importance of pin placement and blockages.
+    <img width="597" height="587" alt="image" src="https://github.com/user-attachments/assets/2bdaac0d-0301-4b54-aadd-a6a7b7aa58cc" />
+
 
 ## 3. Key Concepts
 
@@ -31,6 +33,8 @@ A measure of how much of the core area is occupied by the relevant placed cells.
 ### Placement Density
 
 The target density used to guide placement. Very high density may create congestion and make routing more difficult.
+ <img width="845" height="416" alt="image" src="https://github.com/user-attachments/assets/f1553fd7-c872-4403-9f8b-a49ff1df1164" />
+
 
 ### Power Distribution Network
 
@@ -45,6 +49,8 @@ A network of power and ground connections intended to deliver supply voltage acr
 - Define placement blockages if required.
 - Create power and ground structures.
 - Check floorplan feasibility.
+  <img width="847" height="413" alt="image" src="https://github.com/user-attachments/assets/a22e6a6b-afb0-4eef-be55-aa4f67c7aa4e" />
+
 
 ## 5. Typical Workflow
 
@@ -73,6 +79,8 @@ A network of power and ground connections intended to deliver supply voltage acr
 - Power-network configuration.
 - Floorplan or design-rule warnings.
 - Screenshots of the floorplan, when available.
+   <img width="773" height="428" alt="image" src="https://github.com/user-attachments/assets/6ea2f28b-b61a-4286-8321-579e3ea41bc4" />
+
 
 ## 8. Learning Outcomes
 
