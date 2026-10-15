@@ -75,6 +75,8 @@ less path/to/library.lib
 ```
 
 Replace the example path with a real file from your environment.
+  <img width="852" height="441" alt="image" src="https://github.com/user-attachments/assets/e148c101-90a6-4a63-bf70-80c5ea720e4f" />
+
 
 ## 6. How Standard Cells Are Used
 
@@ -83,6 +85,8 @@ Replace the example path with a real file from your environment.
 3. The cell library supplies available implementations.
 4. Timing analysis uses library timing information.
 5. Physical-design tools arrange and connect the selected cells.
+  <img width="956" height="505" alt="image" src="https://github.com/user-attachments/assets/13be08de-7207-4239-ba5e-c163ae34d05a" />
+
 
 ## 7. Important Considerations
 
