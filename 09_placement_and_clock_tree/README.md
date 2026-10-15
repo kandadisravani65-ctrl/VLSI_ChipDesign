@@ -21,6 +21,7 @@ Placement determines where standard cells are located in the core.
 ### Global Placement
 
 Estimates cell locations while optimizing objectives such as timing and density.
+ <img width="878" height="485" alt="image" src="https://github.com/user-attachments/assets/ef7ea688-3877-4162-bf69-3d1fd705c379" />
 
 ### Detailed Placement
 
@@ -29,6 +30,7 @@ Legalizes and refines cell locations to satisfy placement rules.
 ## 4. Clock Tree Synthesis
 
 CTS inserts and arranges clock buffers or inverters to distribute the clock to sequential cells.
+ <img width="883" height="400" alt="image" src="https://github.com/user-attachments/assets/a71fadc1-b201-47cc-b87b-f643f6174805" />
 
 ### Clock Skew
 
@@ -41,6 +43,7 @@ The delay from the clock source to a clock endpoint.
 ### Clock Buffering
 
 Clock buffers help drive the clock network and control its distribution characteristics.
+  <img width="883" height="562" alt="image" src="https://github.com/user-attachments/assets/1503021b-56c0-4b6f-b72d-20bfd0d61883" />
 
 ## 5. Typical Workflow
 
@@ -63,6 +66,8 @@ The exact command sequence depends on the selected physical-design tool and plat
 - Clock skew and insertion delay.
 - Setup and hold timing.
 - Buffer and inverter counts.
+  <img width="878" height="789" alt="image" src="https://github.com/user-attachments/assets/b9daafee-965d-476d-bf4f-f36ff4c7d695" />
+
 
 ## 7. Common Issues
 
