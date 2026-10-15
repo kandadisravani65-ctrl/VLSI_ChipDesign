@@ -121,6 +121,9 @@ gtkwave mux2to1.vcd
 
 In GTKWave, select the testbench signals `a`, `b`, `sel`, and `y`, then add them to the waveform display.
 
+<img width="1005" height="490" alt="image" src="https://github.com/user-attachments/assets/9365b37d-a35f-4d3a-bf4c-7b47acaebaec" />
+
+
 ## 7. Expected Results
 
 The output should follow the select signal:
