@@ -84,3 +84,10 @@ Each experiment will document:
 5. Verification results
 6. Screenshots and reports
 7. Key observations and conclusion
+
+
+## Author
+
+# Name: K.SRAVANI
+# Course: RTL-Design Workshop
+# Platform: VSDIAT
