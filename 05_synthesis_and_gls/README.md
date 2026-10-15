@@ -56,6 +56,8 @@ Exit Yosys:
 ```text
 exit
 ```
+<img width="794" height="773" alt="image" src="https://github.com/user-attachments/assets/97c3e3c5-0587-44b8-af6f-22ab87514618" />
+
 
 The command `write_verilog` writes the resulting netlist to `mux2to1_netlist.v`.
 
@@ -72,6 +74,7 @@ Important report items include:
 - Cell area, if supported by the selected mapping and library setup.
 
 The exact statistics depend on the RTL and synthesis flow.
+   <img width="798" height="778" alt="image" src="https://github.com/user-attachments/assets/1a071086-dbe1-49a2-914d-1abe89d14f19" />
 
 ## 7. RTL Simulation vs Gate-Level Simulation
 
@@ -94,6 +97,8 @@ A gate-level simulation does not automatically include accurate timing. Timing-a
 5. Compile the netlist, testbench, and models.
 6. Run the simulation.
 7. Compare the observed behavior with the RTL simulation.
+    <img width="795" height="770" alt="image" src="https://github.com/user-attachments/assets/b8715e27-e0ca-4add-95e6-88cc707dec7c" />
+
 
 ## 9. Common Issues
 
@@ -103,6 +108,8 @@ A gate-level simulation does not automatically include accurate timing. Timing-a
 - Missing cell simulation models.
 - Differences in reset or initialization behavior.
 - Incorrect timing or delay configuration.
+   <img width="797" height="765" alt="image" src="https://github.com/user-attachments/assets/57ef1b15-d1a3-4f1e-a7ff-627b18de32d5" />
+
 
 ## 10. Learning Outcomes
 
