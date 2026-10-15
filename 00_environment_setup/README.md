@@ -8,6 +8,9 @@ To prepare a Linux-based development environment for digital design, RTL simulat
 
 The project uses Ubuntu Linux as the primary environment for running hardware design and implementation tools.
 
+<img width="797" height="698" alt="image" src="https://github.com/user-attachments/assets/3b290f69-a9df-4351-a9f9-f5b635df1a65" />
+
+
 ## Tools and Technologies
 
 | Tool | Purpose |
