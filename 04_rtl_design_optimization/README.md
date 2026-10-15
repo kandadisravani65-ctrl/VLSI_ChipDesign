@@ -19,10 +19,11 @@ Optimization may target area, timing, power consumption, or a combination of the
 ### Area Optimization
 
 Reduce the amount of hardware required to implement the design.
-
+    
 ### Timing Optimization
 
 Reduce the delay between inputs and outputs or between sequential elements.
+  <img width="827" height="422" alt="image" src="https://github.com/user-attachments/assets/05716e5f-45c0-4b4b-8434-cfcca2096bf8" />
 
 ### Power Optimization
 
@@ -39,6 +40,7 @@ These goals can conflict. For example, duplicating logic may improve timing but 
 - Reduce unnecessary switching activity.
 - Review long combinational logic paths.
 - Use clear and synthesizable Verilog constructs.
+    <img width="894" height="724" alt="image" src="https://github.com/user-attachments/assets/dd86a015-dd4d-4538-9810-30651aa13a18" />
 
 ## 5. Example: Boolean Simplification
 
@@ -55,6 +57,7 @@ assign y = a & (b | c);
 ```
 
 Both expressions are logically equivalent. However, the mapped hardware and implementation results depend on the synthesis tool and target cell library.
+<img width="796" height="651" alt="image" src="https://github.com/user-attachments/assets/5bef0371-aa72-4254-8d3e-6162b75e13f7" />
 
 ## 6. Example RTL Module
 
