@@ -187,6 +187,8 @@ Case statements are useful for selecting among multiple input conditions or defi
 
 When writing combinational procedural logic, ensure all outputs receive assignments for every possible branch to avoid unintended latch inference.
 
+ <img width="773" height="455" alt="image" src="https://github.com/user-attachments/assets/3d5ca52a-b5e6-4bdd-ac23-b5e5f6c78d79" />
+
 ## 10. Finite-State Machine Design
 
 An FSM represents a sequential circuit using states, transitions, inputs, and outputs.
