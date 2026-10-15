@@ -13,6 +13,7 @@ OpenSTA is an open-source tool for performing static timing analysis using a net
 - Understand timing paths and slack.
 - Explore the OpenSTA workflow.
 - Learn to interpret timing reports.
+ <img width="785" height="619" alt="image" src="https://github.com/user-attachments/assets/7b84d254-cd29-4c11-aa82-29b173fa51b7" />
 
 ## 3. Important Timing Concepts
 
@@ -27,6 +28,7 @@ The minimum time data must be stable before the active clock edge at a sequentia
 ### Hold Time
 
 The minimum time data must remain stable after the active clock edge.
+<img width="586" height="628" alt="image" src="https://github.com/user-attachments/assets/0d6e0f6d-835b-49da-a719-6ea27f83d517" />
 
 ### Slack
 
